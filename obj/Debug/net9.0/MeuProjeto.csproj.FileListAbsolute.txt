@@ -1,0 +1,28 @@
+C:\Projetos\C#\MeuProjeto\bin\Debug\net9.0\MeuProjeto.exe
+C:\Projetos\C#\MeuProjeto\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Projetos\C#\MeuProjeto\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Projetos\C#\MeuProjeto\bin\Debug\net9.0\MeuProjeto.dll
+C:\Projetos\C#\MeuProjeto\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.dll
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Projetos\C#\MeuProjeto\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Projetos\C#\Repositório inicial\bin\Debug\net9.0\MeuProjeto.exe
+C:\Projetos\C#\Repositório inicial\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Projetos\C#\Repositório inicial\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Projetos\C#\Repositório inicial\bin\Debug\net9.0\MeuProjeto.dll
+C:\Projetos\C#\Repositório inicial\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.dll
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Projetos\C#\Repositório inicial\obj\Debug\net9.0\ref\MeuProjeto.dll
